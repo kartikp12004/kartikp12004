@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @kartikp12004  
+# 👋 Hi, I’m Kartik Pandey
 ✨ Welcome to my GitHub corner!  
 
 - 👀 I’m interested in **Cloud Architecture, Web Development**, and **solving challenging DSA problems**.  
