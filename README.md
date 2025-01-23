@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Kartik Pandey
 ✨ Welcome to my GitHub corner!  
 
-- 👀 I’m interested in **Cloud Architecture, Web Development**, and **solving challenging DSA problems**.  
-- 🌱 I’m currently learning **Java for DSA** and diving deeper into **Cloud Computing**.  
+- 👀 I’m interested in **Cloud Architecture, Web Development**, and **solving challenging DSA problems**.
+- 🌱 I’m currently learning **DSA in C++** and diving deeper into **Cloud Computing**.  
 - 💞️ I’m looking to collaborate on **open-source projects**, **innovative web applications**, and anything **cloud-related**!  
 - 📫 How to reach me: **kartikpandey580@gmail.com**  
 - 😄 Pronouns: **He/Him**  
